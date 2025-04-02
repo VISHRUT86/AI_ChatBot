@@ -35,7 +35,7 @@ const AIQAChatApp = () => {
     setError(null);
   
     try {
-      const response = await axios.post('http://localhost:5000/api/ask', {
+      const response = await axios.post('https://ai-chatbot1-n8g8.onrender.com/api/ask', {
         question: input
       }, {
         timeout: 30000
