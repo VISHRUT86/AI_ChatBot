@@ -7,7 +7,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // Middleware
-app.use(cors({ origin: 'http://localhost:3000' }));
+app.use(cors({ origin: 'https://ai-chatbot-yol9.onrender.com' }));
 app.use(express.json());
 
 // Initialize Gemini with your API key
