@@ -57,3 +57,24 @@ npm install
 Create a .env file in the backend/ folder:
 GEMINI_API_KEY=your_google_generative_ai_key
 PORT=5000
+
+
+![image](https://github.com/user-attachments/assets/feeaf0f9-53df-4ae8-9f18-3172ddab3dbf)
+
+App runs on:
+
+Frontend → http://localhost:3000
+
+Backend → http://localhost:5000
+
+![image](https://github.com/user-attachments/assets/8c289df2-4445-4ce2-ac0a-06e08fd25dd3)
+
+📜 License
+This project is licensed under the MIT License.
+
+
+---
+
+Let me know if you also want badges (like `build`, `license`, etc.) or want me to push this into your actual repo as a `README.md` file.
+
+
