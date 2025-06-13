@@ -75,6 +75,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you also want badges (like `build`, `license`, etc.) or want me to push this into your actual repo as a `README.md` file.
+
 
 
